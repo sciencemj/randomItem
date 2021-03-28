@@ -1,0 +1,7 @@
+name: RandomItem
+version: ${project.version}
+main: sciencemj.sciencemj.main
+api-version: 1.16
+prefix: randomItem Loaded
+authors: [ sciencemj ]
+description: random item plugin
